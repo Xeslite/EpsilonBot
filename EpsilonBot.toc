@@ -1,0 +1,13 @@
+## Interface: 71500
+## Title: AirBot
+## Author: Toothless
+## Version: 1
+## Notes: HELPINGSTUFF
+## DefaultState: Enabled
+## SavedVariables: E_Bot
+core.lua
+math-system.lua
+answer-system.lua
+statistic-system.lua
+
+strings.lua
